@@ -1,0 +1,13 @@
+{
+  "name": "angular-gulp",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "gulp-less": "1.2.1",
+    "gulp-connect": "1.0.5",
+    "gulp": "^3.5.6",
+    "gulp-util": "^2.2.14"
+  }
+}
